@@ -1,11 +1,16 @@
-<div align="center">
-<h1>Notification </h1>
-</div>
+<h1 align="center">Notification</h1>
 
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/vue-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></img>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"></img>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></img>
+</div>
+<br>
+
+## 	[DEMO](https://ed-notification.vercel.app)
+
+<div align="center">
+<p>You can create a custom notification in this project that I prepared with Vue 3 composition api. You can use the notifications you create in any component you want. The usage patterns of the Notification component are explained in detail below.</p>
 </div>
 
 ![bandicam-2022-10-17-15-17-04-425](https://user-images.githubusercontent.com/72731296/196175476-4c88b5cb-31f6-499b-86ee-95abb0fe2ed2.gif)
