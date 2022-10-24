@@ -5,11 +5,11 @@
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"></img>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></img>
 </div>
-<br>
 
 ## 	[DEMO](https://ed-notification.vercel.app)
 
 <div align="center">
+<h2>About</h2>
 <p>You can create a custom notification in this project that I prepared with Vue 3 composition api. You can use the notifications you create in any component you want. The usage patterns of the Notification component are explained in detail below.</p>
 </div>
 
