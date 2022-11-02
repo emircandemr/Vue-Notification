@@ -6,7 +6,11 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></img>
 </div>
 
-## 	[DEMO](https://ed-notification.vercel.app)
+<div align="center">
+<h3>✨ Live Version </h3>
+
+### [You can see the live version here.](https://ed-notification.vercel.app)
+</div>
 
 <div align="center">
 <h2>About</h2>
